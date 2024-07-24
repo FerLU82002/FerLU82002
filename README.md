@@ -42,7 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FerLU82002/FerLU82002/output/snake.svg" alt="Snake animation" />
 
 ###
 
